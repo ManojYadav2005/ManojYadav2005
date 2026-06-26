@@ -165,6 +165,12 @@ const manoj = {
 
 <div align="center">
 
+<a href="https://leetcode.com/ManojYadav2005/">
+  <img src="https://leetcard.jacoblin.cool/ManojYadav2005?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+<br/>
+
 | Platform | Achievement |
 |:---:|:---|
 | 💻 **LeetCode** | **550+** problems solved |
