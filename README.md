@@ -166,7 +166,7 @@ const manoj = {
 <div align="center">
 
 <a href="https://leetcode.com/u/manoj2312070/">
-  <img src="https://leetcard.jacoblin.cool/manoj2312070?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/manoj2312070?theme=dark&font=Syne%20Mono&ext=heatmap&cache=0" alt="LeetCode Stats" />
 </a>
 
 <br/>
