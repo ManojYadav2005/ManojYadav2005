@@ -1,0 +1,176 @@
+%------------------------
+% Professional Resume - Manoj Yadav
+%------------------------
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage{tabularx}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage[hidelinks]{hyperref}
+
+% ------ LINK COLOR SETUP ------
+\hypersetup{
+    colorlinks=true,
+    urlcolor=NavyBlue,
+    linkcolor=black
+}
+
+\frenchspacing
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.55in}
+\addtolength{\evensidemargin}{-0.55in}
+\addtolength{\textwidth}{1.1in}
+\addtolength{\topmargin}{-0.6in}
+\addtolength{\textheight}{1.1in}
+
+\urlstyle{rm}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-4pt}]
+
+\setlist[itemize]{itemsep=2pt, topsep=2pt, parsep=1pt, leftmargin=12pt}
+
+% Custom commands
+\newcommand{\resumeItem}[2]{\item{\textbf{#1}{: #2 \vspace{-1pt}}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{1pt}\item[]
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-2pt}
+}
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-1pt}}
+
+% --- NEW COMMAND FOR 1-LINE PROJECT HEADINGS ---
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & #2 \\
+    \end{tabular*}\vspace{-2pt}
+}
+
+\renewcommand{\labelitemii}{$\circ$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{0pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-2pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+\begin{document}
+
+%---------- HEADER -----------------
+\begin{center}
+    {\huge \textbf{Manoj Yadav}} \\[4pt]
+    \large
+    \href{https://github.com/ManojYadav2005}{\faGithub~ManojYadav2005} \hspace{4pt}
+    \href{https://www.linkedin.com/in/manoj-yadav-a0287827a/}{\faLinkedinSquare~manoj-yadav} \hspace{4pt}
+    \href{mailto:manojyadav945871@gmail.com}{\faEnvelope~manojyadav945871@gmail.com} \hspace{4pt}
+    {\faPhone~+91-7078166106}
+\end{center}
+\vspace{-28pt}
+
+%----------- EDUCATION -----------------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {National Institute of Technology, Silchar}{Assam, India}
+    {Bachelor of Technology -- Computer Science and Engineering; \textbf{CGPA: 7.8}}{August 2023 -- May 2027}
+  \resumeSubheading
+    {D.D.S.S.S.V.M Inter College, S.K.D}{Uttar Pradesh, India}
+    {Intermediate; \textbf{Percentage: 78.4\%}}{July 2020 -- April 2022}
+  \resumeSubheading
+     {J.P. International School, S.K.D}{Uttar Pradesh, India}
+     {High School; \textbf{Percentage: 81\%}}{April 2018 --  March 2020}
+\resumeSubHeadingListEnd
+\vspace{-17pt}
+
+
+%----------- SKILLS -----------------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=*, label={}]
+  \resumeSubItem{Languages}{C, C++, JavaScript, TypeScript, SQL, HTML, CSS}
+  \resumeSubItem{Frameworks \& Libraries}{React.js, Next.js, Node.js, Express.js, Tailwind CSS}
+  \resumeSubItem{Databases}{MongoDB, PostgreSQL, MySQL, Firebase Firestore, Pinecone}
+  \resumeSubItem{Tools \& Platforms}{Git, GitHub, MongoDB Atlas, Postman, VS Code}
+  \resumeSubItem{CS Fundamentals}{Data Structures \& Algorithms (DSA), Database Management System, Operating Systems, Object-Oriented Programming}
+\end{itemize}
+\vspace{-16pt}
+
+
+%----------- EXPERIENCE -----------------
+\section{Experience}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {\textbf{Satyendra Nath Bose Summer Internship}}{}
+    {}{}
+\vspace{-20pt}
+  \resumeSubheading
+    {\textbf{AI-Driven Document Intelligence System}}{\href{https://github.com/SN-BOSE-INTERN-2026/AI-Driven-Document-Intelligence-System-}{\textit{Github}} $|$ \textit{May -- July 2026}}
+    {MERN Stack, OpenAI, Socket.io, Pinecone}{}
+    \resumeItemListStart
+     \item {Collaborated within a team to engineer a \textbf{MERN Document Intelligence Platform} with \textbf{OpenAI GPT-4o-mini}, Pinecone, and RAG-based Q\&A, enabling semantic search across \textbf{10K+ documents}.}
+      \item {Deployed \textbf{REST APIs} with \textbf{JWT authentication}, RBAC, and rate limiting on Render and MongoDB Atlas, sustaining \textbf{99.9\% uptime}.}
+      \item {Developed a \textbf{real-time OCR pipeline} via \textbf{Socket.io} and Tesseract.js for PDF/DOCX/image ingestion across a \textbf{React}, \textbf{Node.js}, and \textbf{Express.js} stack, attaining \textbf{95\% OCR accuracy}.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%----------- PROJECTS -----------------
+\section{Projects}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Kisan Sathi \href{https://kishan-sathi-1.onrender.com/}{\textit{[Live Link]}}}
+    {\href{https://github.com/ManojYadav2005/Kishan-Sathi}{Github}}
+    {MERN(MongoDB,Express.js,React.js,Node.js), REST APIs, JWT}{December 2025 -- May 2026}
+    \resumeItemListStart
+      \item {Architected a \textbf{MERN MVC} platform, integrating \textbf{OpenWeatherMap} \& \textbf{data.gov.in APIs} for live data.}
+  \item {Optimized \textbf{MongoDB} via region migration, cutting \textbf{API response time by 55\%} (295ms $\rightarrow$ 133ms).}
+  \item {Stress-tested with \textbf{Artillery} (200 users, 100\% success) and deployed cron jobs to prevent cold starts.}
+  \item {Engineered \textbf{JWT authentication} and secure token pipelines for automated \textbf{HTML email} workflows.}
+    \resumeItemListEnd
+ 
+\vspace{3pt}
+ 
+  \resumeSubheading
+    {Finance Tracker \href{https://fin-track-bzpr.vercel.app/}{\textit{[Live link]}}}
+    {\href{https://github.com/ManojYadav2005/FinTrack}{Github}}
+    {Next.js, PostgreSQL, Google Gemini API}{August -- October 2025}
+    \resumeItemListStart
+    \item {Built an \textbf{AI platform} via \textbf{Next.js SSR} and \textbf{Gemini 2.5 API} to auto-extract receipt data into \textbf{JSON}.}
+  \item {Designed a \textbf{PostgreSQL} schema with \textbf{Prisma} \& \textbf{Supabase}, using \textbf{PgBouncer} for serverless concurrency.}
+  \item {Secured endpoints via \textbf{Clerk Auth} and engineered real-time budget alerts using the \textbf{Resend API}.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-11pt}
+
+
+%----------- COMPETITIVE PROGRAMMING -----------------
+\section{Competitive Programming \& Achievements}
+\resumeSubHeadingListStart
+  \resumeSubItem{Multi-Platform Problem Solving}
+    {Solved \textbf{1000+} DSA problems across LeetCode (550+), Codeforces (285+), CodeChef, and GeeksforGeeks.}
+  \resumeSubItem{Contest Ratings}
+    {Achieved \textbf{Pupil} rank on Codeforces (Max rating \textbf{1200+}) and \textbf{2-Star} on CodeChef (Max rating \textbf{1400+}).}
+  \resumeSubItem{Global Rank 2644}
+    {Secured a global rank of \textbf{2644 out of 30,000+} participants in Codeforces Round 1061 (Div. 2), October 2025.}
+\resumeSubHeadingListEnd
+
+\end{document}
