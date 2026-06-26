@@ -165,8 +165,8 @@ const manoj = {
 
 <div align="center">
 
-<a href="https://leetcode.com/ManojYadav2005/">
-  <img src="https://leetcard.jacoblin.cool/ManojYadav2005?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/manoj2312070/">
+  <img src="https://leetcard.jacoblin.cool/manoj2312070?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 <br/>
@@ -217,7 +217,7 @@ const manoj = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/manoj-yadav-a0287827a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:manojyadav945871@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ManojYadav2005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/ManojYadav2005/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/manoj2312070/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=00FF41)](https://codeforces.com/profile/ManojYadav2005)
 
 </div>
