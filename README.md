@@ -43,7 +43,7 @@
 const manoj = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
-    education: "NIT Silchar '27 (CSE) | CGPA: 7.8",
+    education: "NIT Silchar '27 (CSE)",
     role: "Full Stack Developer",
     
     code: ["C", "C++", "JavaScript", "SQL", "HTML", "CSS"],
@@ -56,8 +56,7 @@ const manoj = {
         tools: ["Git", "GitHub", "Postman", "VS Code", "MongoDB Atlas"]
     },
     
-    currentFocus: "Building AI-Powered Full Stack Applications",
-    funFact: "I debug with console.log and I'm proud of it 😄"
+    currentFocus: "Building AI-Powered Full Stack Applications"
 };
 ```
 
@@ -67,7 +66,6 @@ const manoj = {
 - 🏆 **1000+ DSA Problems** — LeetCode (550+), Codeforces (285+), CodeChef, GFG
 - 🎯 **Codeforces Pupil** (1200+) | **CodeChef 2-Star** (1400+) | Global Rank **2644/30K+** in CF Round 1061
 - 💬 Ask me about **MERN Stack, Next.js, DSA, Competitive Programming**
-- ⚡ Fun fact: **I debug with console.log and I'm proud of it 😄**
 
 <br clear="both">
 
