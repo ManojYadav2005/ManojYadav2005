@@ -45,14 +45,13 @@ const manoj = {
     education: "NIT Silchar '27 (CSE)",
     role: "Full Stack Developer",
     
-    code: ["JavaScript", "TypeScript", "C++", "C", "SQL"],
+    code: ["JavaScript", "C++", "C", "SQL"],
     
     technologies: {
         frontEnd: ["React.js", "Next.js", "Tailwind CSS"],
         backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         ai: ["OpenAI API", "Gemini API", "Pinecone"],
-        realtime: ["Socket.io", "WebSockets"],
         tools: ["Git", "Postman", "VS Code", "MongoDB Atlas"]
     },
     
@@ -83,7 +82,7 @@ const manoj = {
 
 ### 💻 Languages
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,python&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,javascript,python&theme=dark" /></a>
 </p>
 
 ### 🎨 Frontend
@@ -93,7 +92,7 @@ const manoj = {
 
 ### ⚙️ Backend & Databases
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" /></a>
 </p>
 
 ### 🧰 Tools & Platforms
