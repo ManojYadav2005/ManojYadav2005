@@ -8,7 +8,7 @@
 
 <!-- 🎯 DYNAMIC TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+AI+Integration;%F0%9F%8E%93+Pre-Final+Year+CSE+%40+NIT+Silchar" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=1000%2B+DSA+Problems+Solved;%E2%9A%A1+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB" alt="Typing Animation" />
 
 <!-- 🔗 SOCIAL BADGES -->
 
