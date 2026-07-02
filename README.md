@@ -174,17 +174,7 @@ An **AI-powered finance tracker** built with **Next.js SSR** and **Gemini 2.5 AP
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="30"> &nbsp;Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManojYadav2005&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📈 ACTIVITY GRAPH -->
