@@ -4,23 +4,24 @@
 <!-- 🌊 ANIMATED WAVE HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6e40c9,75:238636,100:58a6ff&height=220&section=header&text=Manoj%20Yadav&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6e40c9,75:238636,100:58a6ff&height=220&section=header&text=Manoj%20Yadav&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- 🎯 DYNAMIC TYPING -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Full+Stack+Developer+%7C+MERN+%2B+Next.js;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%94%AC+SN+Bose+Summer+Research+Intern;%F0%9F%8E%93+Pre-Final+Year+CSE+%40+NIT+Silchar" alt="Typing Animation" />
 
-<!-- 📊 PROFILE BADGES -->
+<!-- 🔗 SOCIAL BADGES -->
 
 <p>
-<a href="https://github.com/ManojYadav2005?tab=followers">
-  <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ManojYadav2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<a href="https://leetcode.com/u/ManojYadav2005" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/manoj-yadav-a0287827a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/ManojYadav2005?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ManojYadav2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ManojYadav2005&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=ManojYadav2005&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -63,10 +64,49 @@ const manoj = {
 <br>
 
 - 🔬 **SN Bose Summer Intern** — Built an AI-Driven Document Intelligence System with OpenAI & RAG
-- 🌾 **Kisan Sathi** — MERN platform with live weather & mandi data via OpenWeatherMap & data.gov.in APIs
-- 💰 **FinTrack** — Next.js SSR + Gemini AI for smart receipt scanning & budget alerts
 - 🏆 **1000+ DSA Problems** — LeetCode (550+), Codeforces (285+), CodeChef, GFG
 - 🎯 **Codeforces Pupil** (1200+) | **CodeChef 2-Star** (1400+) | Global Rank **2644/30K+** in CF Round 1061
+- 💬 Ask me about **MERN Stack, Next.js, DSA, Competitive Programming**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it 😄**
+
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 [Kisan Sathi](https://kishan-sathi-1.onrender.com/)
+A **MERN MVC** platform for farmers integrating **OpenWeatherMap** & **data.gov.in APIs** for live weather & mandi data. Features **JWT auth**, optimized MongoDB (55% faster API response), and stress-tested with Artillery (200 users, 100% success rate).
+
+<p>
+<a href="https://kishan-sathi-1.onrender.com/"><img src="https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/ManojYadav2005/Kishan-Sathi"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [FinTrack](https://fin-track-bzpr.vercel.app/)
+An **AI-powered finance tracker** built with **Next.js SSR** and **Gemini 2.5 API** that auto-extracts receipt data into JSON. Uses **PostgreSQL** with Prisma & Supabase, **Clerk Auth**, and real-time budget alerts via **Resend API**.
+
+<p>
+<a href="https://fin-track-bzpr.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/ManojYadav2005/FinTrack"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
 
 <br clear="both">
 
@@ -188,9 +228,7 @@ const manoj = {
 <!-- 🌊 FOOTER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
-</div>
+
 
 <br>
 
