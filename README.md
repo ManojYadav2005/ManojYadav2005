@@ -8,7 +8,7 @@
 
 <!-- 🎯 DYNAMIC TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Building+Production-Grade+Web+Apps;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Full+Stack+Developer+%7C+MERN+%2B+Next.js;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%94%AC+SN+Bose+Summer+Research+Intern;%F0%9F%8E%93+Pre-Final+Year+CSE+%40+NIT+Silchar" alt="Typing Animation" />
 
 <!-- 📊 PROFILE BADGES -->
 
@@ -42,31 +42,31 @@
 const manoj = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
-    education: "NIT Silchar '27 (CSE)",
+    education: "NIT Silchar '27 (CSE) | CGPA: 7.8",
     role: "Full Stack Developer",
     
-    code: ["JavaScript", "C++", "C", "SQL"],
+    code: ["C", "C++", "JavaScript", "SQL", "HTML", "CSS"],
     
     technologies: {
         frontEnd: ["React.js", "Next.js", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        ai: ["OpenAI API", "Gemini API", "Pinecone"],
-        tools: ["Git", "Postman", "VS Code", "MongoDB Atlas"]
+        backEnd: ["Node.js", "Express.js", "REST APIs", "JWT"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Pinecone"],
+        ai: ["OpenAI GPT-4o-mini", "Google Gemini API"],
+        tools: ["Git", "GitHub", "Postman", "VS Code", "MongoDB Atlas"]
     },
     
-    currentFocus: "Building AI-Powered Full Stack Apps",
+    currentFocus: "Building AI-Powered Full Stack Applications",
     funFact: "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
 <br>
 
-- 🔭 Currently building **AI-Powered Full Stack Applications**
-- 🌱 Learning **System Design & Cloud Architecture**
-- 🎯 Goal: **Contribute to Open Source & Ship Real Products**
-- 💬 Ask me about **MERN Stack, Next.js, DSA, Competitive Programming**
-- ⚡ Fun fact: **I've solved 1000+ problems across coding platforms!**
+- 🔬 **SN Bose Summer Intern** — Built an AI-Driven Document Intelligence System with OpenAI & RAG
+- 🌾 **Kisan Sathi** — MERN platform with live weather & mandi data via OpenWeatherMap & data.gov.in APIs
+- 💰 **FinTrack** — Next.js SSR + Gemini AI for smart receipt scanning & budget alerts
+- 🏆 **1000+ DSA Problems** — LeetCode (550+), Codeforces (285+), CodeChef, GFG
+- 🎯 **Codeforces Pupil** (1200+) | **CodeChef 2-Star** (1400+) | Global Rank **2644/30K+** in CF Round 1061
 
 <br clear="both">
 
@@ -165,13 +165,10 @@ const manoj = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/manoj-yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/manoj-yadav-a0287827a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://twitter.com/ManojYadav2005" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:manojyadav945871@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
   <a href="https://leetcode.com/ManojYadav2005" target="_blank">
@@ -179,6 +176,9 @@ const manoj = {
   </a>&nbsp;
   <a href="https://codeforces.com/profile/ManojYadav2005" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/ManojYadav2005" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
 
