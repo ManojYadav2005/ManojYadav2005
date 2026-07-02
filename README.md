@@ -13,7 +13,7 @@
 <!-- 🔗 SOCIAL BADGES -->
 
 <p>
-<a href="https://leetcode.com/u/ManojYadav2005" target="_blank">
+<a href="https://leetcode.com/u/manoj2312070/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/manoj-yadav-a0287827a/" target="_blank">
@@ -199,13 +199,13 @@ An **AI-powered finance tracker** built with **Next.js SSR** and **Gemini 2.5 AP
   <a href="mailto:manojyadav945871@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;
-  <a href="https://leetcode.com/ManojYadav2005" target="_blank">
+  <a href="https://leetcode.com/u/manoj2312070/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;
-  <a href="https://codeforces.com/profile/ManojYadav2005" target="_blank">
+  <a href="https://codeforces.com/profile/manoj12070" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>&nbsp;
-  <a href="https://www.codechef.com/users/ManojYadav2005" target="_blank">
+  <a href="https://www.codechef.com/users/manoj2070" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
