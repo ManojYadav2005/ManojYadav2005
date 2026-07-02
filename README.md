@@ -8,7 +8,7 @@
 
 <!-- 🎯 DYNAMIC TYPING -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Building+Production-Grade+Web+Apps;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%8C%90+MERN+Stack+%7C+Next.js+%7C+AI+Integration;%F0%9F%8E%93+Pre-Final+Year+%40+NIT+Silchar)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Building+Production-Grade+Web+Apps;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%8C%90+MERN+Stack+%7C+Next.js+%7C+AI+Integration;%F0%9F%8E%93+Pre-Final+Year+%40+NIT+Silchar" alt="Typing Animation" />
 
 <!-- 📊 PROFILE BADGES -->
 
