@@ -8,7 +8,7 @@
 
 <!-- 🎯 DYNAMIC TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Full+Stack+Developer+%7C+MERN+%2B+Next.js;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%94%AC+SN+Bose+Summer+Research+Intern;%F0%9F%8E%93+Pre-Final+Year+CSE+%40+NIT+Silchar" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;%F0%9F%8E%AF+1000%2B+DSA+Problems+Solved;%F0%9F%92%BB+MERN+Stack+%7C+Next.js+%7C+AI+Integration;%F0%9F%8E%93+Pre-Final+Year+CSE+%40+NIT+Silchar" alt="Typing Animation" />
 
 <!-- 🔗 SOCIAL BADGES -->
 
@@ -151,14 +151,14 @@ An **AI-powered finance tracker** built with **Next.js SSR** and **Gemini 2.5 AP
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManojYadav2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManojYadav2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojYadav2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=6e40c9&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojYadav2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManojYadav2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
